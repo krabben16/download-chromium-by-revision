@@ -1,0 +1,2 @@
+# download-chromium-by-revision
+リビジョン番号を指定してChromiumをダウンロードするnpmパッケージ
