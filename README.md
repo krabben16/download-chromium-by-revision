@@ -5,7 +5,7 @@ This package downloads Chromium by specifying the revision number.
 ## usage
 
 ```shell
-dcbr -r 727972
+get-chromium-by-revision -r 727972
 ```
 
 ## options
