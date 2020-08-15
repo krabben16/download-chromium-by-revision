@@ -1,4 +1,22 @@
-# download-chromium-by-revision
+# get-chromium-by-revision
+
+This package downloads Chromium by specifying the revision number.
+
+## usage
+
+```shell
+dcbr -r 727972
+```
+
+## options
+
+```shell
+Usage: cli [options]
+
+Options:
+  -r, --revision <number>  revision number
+  -h, --help               display help for command
+```
 
 ## develp
 
@@ -10,4 +28,3 @@ npm run dev
 ## reference
 
 - https://github.com/scheib/chromium-latest-linux
-- https://qiita.com/toshi-toma/items/ea76b8894e7771d47e10
