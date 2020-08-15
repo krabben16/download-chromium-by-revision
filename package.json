@@ -1,6 +1,6 @@
 {
   "name": "get-chromium-by-revision",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This package downloads Chromium by specifying the revision number.",
   "bin": {
     "get-chromium-by-revision": "./bin/cli.js"
