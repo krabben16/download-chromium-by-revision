@@ -7,7 +7,7 @@ npm i
 npm run dev
 ```
 
-## 参考
+## reference
 
 - https://github.com/scheib/chromium-latest-linux
 - https://qiita.com/toshi-toma/items/ea76b8894e7771d47e10
