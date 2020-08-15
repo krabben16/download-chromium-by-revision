@@ -1,2 +1,13 @@
 # download-chromium-by-revision
-リビジョン番号を指定してChromiumをダウンロードするnpmパッケージ
+
+## develp
+
+```shell
+npm i
+npm run dev
+```
+
+## 参考
+
+- https://github.com/scheib/chromium-latest-linux
+- https://qiita.com/toshi-toma/items/ea76b8894e7771d47e10

@@ -1,0 +1,29 @@
+{
+  "name": "download-chromium-by-revision",
+  "version": "0.0.1",
+  "description": "This package downloads Chromium by specifying the revision number.",
+  "bin": {
+    "download-chromium-by-revision": "./bin/cli.js"
+  },
+  "scripts": {
+    "dev": "node ./bin/cli.js -r 727972",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krabben16/download-chromium-by-revision.git"
+  },
+  "keywords": [
+    "Chromium"
+  ],
+  "author": "krabben16",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krabben16/download-chromium-by-revision/issues"
+  },
+  "homepage": "https://github.com/krabben16/download-chromium-by-revision#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "commander": "^6.0.0"
+  }
+}
