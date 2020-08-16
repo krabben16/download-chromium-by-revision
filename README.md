@@ -2,6 +2,12 @@
 
 This package downloads Chromium by specifying the revision number.
 
+## install
+
+```shell
+npm install get-chromium-by-revision
+```
+
 ## usage
 
 ```shell
@@ -28,3 +34,4 @@ npm run dev
 ## reference
 
 - https://github.com/scheib/chromium-latest-linux
+- https://www.chromium.org/getting-involved/download-chromium
